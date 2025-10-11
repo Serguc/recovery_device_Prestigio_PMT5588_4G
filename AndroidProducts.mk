@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \ 
-	$(LOCAL_DIR)/omni_CF80A5L.mk
+	$(LOCAL_DIR)/omni_PMT5588_4G.mk
