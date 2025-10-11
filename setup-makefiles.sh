@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=MEGA_3
-VENDOR=blackview
+DEVICE=CF80A5L
+VENDOR=Prestigio
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
