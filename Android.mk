@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),CF80A5L)
+ifeq ($(TARGET_DEVICE),PMT5588_4G)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
