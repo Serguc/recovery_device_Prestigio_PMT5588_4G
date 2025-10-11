@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \ 
-	$(LOCAL_DIR)/omni_PMT5588_4G.mk
+	$(LOCAL_DIR)/omni_CF80A5L.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_PMT5588_4G-user \
-    omni_PMT5588_4G-userdebug \
-    omni_PMT5588_4G-eng
+    omni_CF80A5L-user \
+    omni_CF80A5L-userdebug \
+    omni_CF80A5L-eng
