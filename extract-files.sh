@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=PMT5588_4G
+DEVICE=CF80A5L
 VENDOR=Prestigio
 
 # Load extract_utils and do some sanity checks
