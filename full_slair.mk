@@ -1,8 +1,8 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-PRODUCT_DEVICE := slair
-PRODUCT_NAME := omni_slair
+PRODUCT_DEVICE := CF80A5L
+PRODUCT_NAME := omni_PMT5588_4G
 PRODUCT_BRAND := Prestigio
-PRODUCT_MODEL := slair
+PRODUCT_MODEL := PMT5588_4G
 PRODUCT_MANUFACTURER := Prestigio
-PRODUCT_BOARD := mt6735
+PRODUCT_BOARD := MT8735A
