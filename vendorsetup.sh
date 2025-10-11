@@ -1,2 +1,0 @@
-add_lunch_combo omni_slair-eng
-add_lunch_combo omni_slair-userdebug
